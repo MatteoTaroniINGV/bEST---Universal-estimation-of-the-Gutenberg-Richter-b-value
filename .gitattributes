@@ -1,0 +1,1 @@
+CAT5_Inside_Depth20.txt filter=lfs diff=lfs merge=lfs -text
