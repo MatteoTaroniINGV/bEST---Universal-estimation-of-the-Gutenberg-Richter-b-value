@@ -1,3 +1,4 @@
+https://mybinder.org/v2/gh/MatteoTaroniINGV/bEST---Universal-estimation-of-the-Gutenberg-Richter-b-value/HEAD?urlpath=%2Fdoc%2Ftree%2Fbvalue_real_example.ipynb
 # BEST: Gutenberg-Richter b-value Toolkit for Python and MATLAB
 
 Estimate Gutenberg-Richter b-values with multiple MLE-based methods, run a real-catalog example, and validate estimators with Monte Carlo simulations.
