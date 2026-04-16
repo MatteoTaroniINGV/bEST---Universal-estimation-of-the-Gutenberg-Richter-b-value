@@ -94,7 +94,7 @@ Matteo Taroni (1), Davide Zaccagnino (2,1), Ilaria Spassiani (1), Giuseppe Falco
 ## How to Cite this repo
 If you use bEST in your research, please cite it as follows:
 
-Taroni, M., D. Zaccagnino, I. Spassiani, G. Falcone, G. Petrillo, G. Vitale, and A. Figlioli (2026). bEST. GitHub. https://github.com/
+Taroni, M., D. Zaccagnino, I. Spassiani, G. Falcone, G. Petrillo, G. Vitale, and A. Figlioli (2026). bEST. GitHub. https://github.com/MatteoTaroniINGV/bEST---Universal-estimation-of-the-Gutenberg-Richter-b-value
 
 BibTeX
 If you are using BibTeX, you can use the following entry:  
