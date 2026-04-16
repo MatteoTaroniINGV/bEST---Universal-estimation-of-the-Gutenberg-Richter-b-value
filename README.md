@@ -1,4 +1,4 @@
-# BEST: Gutenberg-Richter b-value Toolkit for Python
+# bEST---Universal-estimation-of-the-Gutenberg-Richter-b-value: Gutenberg-Richter b-value Toolkit for Python and MATLAB
 
 Estimate Gutenberg-Richter b-values with multiple MLE-based methods, run a real-catalog example, and validate estimators with Monte Carlo simulations.
 
