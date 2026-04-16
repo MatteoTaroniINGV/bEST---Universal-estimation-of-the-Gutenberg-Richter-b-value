@@ -108,8 +108,3 @@ If you are using BibTeX, you can use the following entry:
     url = {https://doi.org/10.1785/0220250175},
     eprint = {https://pubs.geoscienceworld.org/ssa/srl/article-pdf/doi/10.1785/0220250175/7799450/srl-2025175.1.pdf},
 }
-
-
-- `numpy`
-- `matplotlib`
-
